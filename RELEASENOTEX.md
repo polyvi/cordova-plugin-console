@@ -20,3 +20,12 @@
 -->
 # Release Note X
 
+
+### 0.2.6 Wed Jan 08 2014 15:13:58 GMT+0800 (CST)
+ *  added releasenotex.md
+ *  CB-5719 Updated version and RELEASENOTES.md for release 0.2.6
+ *  CB-5658 Update license comment formatting of doc/index.md
+ *  CB-5658 Add doc/index.md for Console plugin
+ *  [CB-5565] Incremented plugin version on dev branch.
+ *  [CB-5565] Updated version and RELEASENOTES.md for release 0.2.5
+ *  add ubuntu platform
