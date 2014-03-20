@@ -29,3 +29,12 @@
  *  [CB-5565] Incremented plugin version on dev branch.
  *  [CB-5565] Updated version and RELEASENOTES.md for release 0.2.5
  *  add ubuntu platform
+
+## 0.2.7 (Thu Mar 20 2014)
+
+
+ *  CB-5980 Updated version and RELEASENOTES.md for release 0.2.7
+ *  Native console needs to be called DebugConsole to avoid ambiguous reference. This commit requires the 3.4.0 version of the native class factory
+ *  CB-4718 fixed Console plugin not work on wp
+ *  CB-5719 Incremented plugin version on dev branch.
+ *  batch modify .reviewboard
